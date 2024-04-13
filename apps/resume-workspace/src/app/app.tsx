@@ -9,7 +9,7 @@ import { JsonEditor } from '@resume/editor';
 export function App() {
   return (
     <Routes>
-      <Route path="/" element={<NxWelcome title={'Test'} />}></Route>
+      <Route path="/" element={<h1>Welcome resume-workspace</h1>}></Route>
       <Route path="/exampleComp" element={<ExampleComp />}></Route>
       <Route path="/editor" element={<JsonEditor />}></Route>
     </Routes>
