@@ -38,4 +38,10 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# Customized Local files
+*.json5
+!resume.json5
+*.svg
+.env.local
+
 .nx/cache

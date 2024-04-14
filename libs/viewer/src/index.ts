@@ -1,2 +1,2 @@
 // export * from './lib/viewer'; // Default config
-export * from './lib/example-comp/example-comp'
+export * from './lib/Resume/Resume'

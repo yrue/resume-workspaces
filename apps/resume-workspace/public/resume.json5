@@ -1,0 +1,403 @@
+{
+  personal_information: {
+    name: 'xxxxxxxxx',
+    roles: {
+      description: 'xxxxxxxxxxxxxxxxxxxxx',
+      show: false,
+      value: [
+        'xxxxxxxxxxxxxxxxxx',
+      ],
+    },
+    mobile: 'xxxxxxxxxxxxx',
+    email: 'xxxxxxxxxxxxxxxxxx',
+    links: [
+      {
+        show: true,
+        title: 'xxxxxxxx',
+        url: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      },
+      {
+        show: false,
+        title: 'xxxxxx',
+        url: 'xxxxxxxxxxxxxxxxxxxxxxx',
+      },
+      {
+        show: false,
+        title: 'xxxxxx',
+        url: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      },
+    ],
+  },
+  experiences: [
+    {
+      company: {
+        name: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+        logo: 'xxxxxxx',
+      },
+      location: 'xxxxxxxxxxxxxx',
+      department: {
+        show: false,
+        data: 'xxxxxxxx',
+      },
+      roles: [
+        {
+          title: 'xxxxxxxxxxxxxxxxx',
+          period: {
+            start: 'xxxxxxxxx',
+            end: 'xxxxxxx',
+          },
+          details: [
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              cn: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                skills: [
+                  'xxxxxxxxxxxxxxxxxxxxx',
+                  'xxxxx',
+                  'xxxxxxxxxxxxx',
+                  'xxxxxxx',
+                  'xxxxxxx',
+                  'xxxxxxxxxxxx',
+                  'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                ],
+              },
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                skills: [
+                  'xxxxxxxxxxx',
+                ],
+              },
+              contributions: [
+                'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              ],
+              rephrased: true,
+              ready: false,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: [
+                'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              ],
+              contribution: [
+                'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              ],
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                skills: [
+                  'xxxxxxxxxx',
+                  'xxxxxxx',
+                  'xxxxxxxxxxxxxxx',
+                  'xxxxxxxxxxxxxxxxxxxxx',
+                ],
+              },
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              cn: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                buzzword: [
+                  'xxxxx',
+                  'xxxxxxxxxx',
+                  'xxxxxx',
+                ],
+              },
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                buzzword: [
+                  'xxxxx',
+                  'xxxxxxxxxx',
+                ],
+              },
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+          ],
+        },
+        {
+          title: 'xxxxxxxxxxxxxxxxxxxxxxxx',
+          period: {
+            start: 'xxxxxxxxx',
+            end: 'xxxxxxxxx',
+          },
+          details: [
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              cn: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              cn: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: {
+                detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                skills: [
+                  'xxxxxxxxxxxxxxxxxxxxx',
+                  'xxxxxxxxxxxxxxxxxx',
+                ],
+              },
+              rephrased: true,
+              ready: true,
+              show: true,
+            },
+            {
+              content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              cn: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              note: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+              rephrased: false,
+              ready: false,
+              show: true,
+            },
+            {
+              content: '',
+              show: false,
+              note: {
+                buzzwords: {
+                  'Adaptive design': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  'Information Architecture': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  'Responsive design': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  sitemap: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  Wireframe: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  'Search Engine Optimization': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  TypeScript: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                  GraphQL: 'xxx',
+                  'web performance': '',
+                  'Basic Understanding of SEO Principles': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+                },
+              },
+            },
+          ],
+        },
+      ],
+    },
+    {
+      company: {
+        name: 'xxxxxxxx',
+        logo: 'xxxxxxxxxxxx',
+      },
+      hide: true,
+      roles: {
+        location: 'xxxxxxxxxxxxxxxx',
+        department: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+        role: 'xxxxxx',
+        period: {
+          start: 'xxxxxxxxx',
+          end: 'xxxxxxxxx',
+        },
+        details: [
+          {
+            content: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+            show: true,
+          },
+        ],
+      },
+    },
+  ],
+  skills: [
+    {
+      content: [
+        'xxxxx',
+        'xxxxxxx',
+        'xxxxx',
+        'xxxxxxxxx',
+        'xxxxx',
+        'xxxxxxxxxxxxx',
+        'xxxxxxx',
+        'xxxxxxxxxx',
+        'xxxxxxx',
+        'xxxxx',
+        'xxx',
+        'xxxxxxxxx',
+        'xxxxxxxx',
+        'xxxxxxx',
+        'xxxx',
+        'xxxxxxxxxxxxxxx',
+        'xxxxxxx',
+        'xxxxx',
+        'xxxxxxx',
+        'xxxxxxxxxx',
+        'xxxxxx',
+        'xxxxxxxxx',
+      ],
+      displayText: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      content: [
+        'xxxxxxxxxx',
+        'xxxxxxxxxx',
+        'xxxx',
+        'xxx',
+        'xxxxxxxxxxx',
+        'xxxx',
+        'xxxxxxxxxxx',
+        'xxxxxx',
+        'xxxx',
+        'xxx',
+        'x',
+      ],
+      displayText: 'xxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      content: [
+        'xxxxxxxxx',
+        'xxxxxxxx',
+        'xxxxxxxxxxxxxxxxxxxxxxx',
+        'xxxxx',
+        'xxxxxxxxxxxxxxxxxxx',
+        'xxxxxxxxxxxxxxxxxx',
+        'xxxxxxxxxxxx',
+        'xxxxxxxxxxxxxxxxxxx',
+        'xxxxxxxxxxxxx',
+        'xxxxxxxxxxxxxxxxxxx',
+        'xxxxx',
+      ],
+      displayText: 'xxxxxxxxx',
+    },
+  ],
+  summary: {
+    show: true,
+    value: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  },
+  educations: [
+    {
+      school: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      location: 'xxxxxxxxxxxxxxx',
+      degree: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      period: {
+        start: 'xxxxxxxxx',
+        end: 'xxxxxxxxx',
+      },
+    },
+    {
+      school: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      location: 'xxxxxxxxxxxxxxxxx',
+      degree: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      period: {
+        start: 'xxxxxxxxx',
+        end: 'xxxxxxxxx',
+      },
+    },
+  ],
+  strengths: {
+    hide: true,
+    values: [
+      {
+        subject: 'xxxxxxxxxxxxxx',
+        description: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      },
+      {
+        subject: 'xxxxxxxxxxx',
+        description: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      },
+      {
+        subject: 'xxxxxxxxxxxxxxxxxxx',
+        description: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      },
+      {
+        hide: true,
+        subject: 'xxxxxxxxxxxxxx',
+      },
+    ],
+  },
+  achievements: [
+    {
+      subject: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      subject: 'xxxxxxxxxxxxxxxxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      subject: 'xxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      subject: 'xxxxxxxxxxxxxxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      subject: 'xxxxxxxxxxxxxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      subject: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      detail: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+  ],
+  'Industry Expertise': {
+    'Front-end development': {
+      level: 4,
+      total: 5,
+    },
+    Backend: {
+      level: 2,
+      total: 5,
+    },
+    DevOps: {
+      level: 2,
+      total: 5,
+    },
+  },
+  publications: [
+    {
+      title: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      url: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+    {
+      title: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+      url: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    },
+  ],
+  'Open Source Work': [
+    {
+      name: '',
+      description: '',
+      url: '',
+    },
+  ],
+  Patent: [
+    'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  ],
+}

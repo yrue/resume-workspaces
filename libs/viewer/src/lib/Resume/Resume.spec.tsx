@@ -1,10 +1,10 @@
 import { render } from '@testing-library/react';
 
-import ExampleComp from './example-comp';
+import Resume from './Resume';
 
-describe('ExampleComp', () => {
+describe('Resume', () => {
   it('should render successfully', () => {
-    const { baseElement } = render(<ExampleComp />);
+    const { baseElement } = render(<Resume />);
     expect(baseElement).toBeTruthy();
   });
 });
