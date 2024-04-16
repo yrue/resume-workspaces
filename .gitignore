@@ -39,6 +39,7 @@ testem.log
 Thumbs.db
 
 # Customized Local files
+.env.local
 *.json5
 !resume.json5
 *.svg

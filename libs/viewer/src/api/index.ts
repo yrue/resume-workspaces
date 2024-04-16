@@ -1,7 +1,6 @@
 import json5 from 'json5';
 
 export const fetchJSON5FileFromPublic = async (filename = 'resume.json5', abortControllerSignal: AbortSignal) => {
-    // TODO: other approaches to call API
     try {
         const response = await fetch(`./${filename}`
         , {signal: abortControllerSignal}

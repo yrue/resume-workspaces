@@ -35,7 +35,7 @@ const fileContents = readFileSync(filePath, 'utf-8');
 
 const options: ProcessOptions = {
     excludeProperties: [],
-    excludePatterns: [/^123/]
+    excludePatterns: []
 };
 
 const processed = processJson5(fileContents, options);
